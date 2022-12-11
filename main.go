@@ -18,5 +18,5 @@ func main() {
 	if err != nil {
 		panic(err.Error())
 	}
-	fmt.Println("You connected to your database.")
+	fmt.Println("estas conectado")
 }
